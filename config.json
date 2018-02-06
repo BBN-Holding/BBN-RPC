@@ -1,0 +1,14 @@
+{
+	"appClientID": "410180368696606720",
+	"imageKeys": {
+		"large": "large",
+		"small": "greg"
+	},
+	"imageTexts": {
+		"large": "BigBotNetwork",
+		"small": "Skidder"
+	},
+	"details": "disco.gg/bbn",
+	"state": "Your Discord Bot Network^^",
+	"rpcTransportType": "ipc"
+}
