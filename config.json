@@ -2,11 +2,11 @@
 	"appClientID": "410180368696606720",
 	"imageKeys": {
 		"large": "large",
-		"small": "greg"
+		"small": "community"
 	},
 	"imageTexts": {
 		"large": "BigBotNetwork",
-		"small": "Skidder"
+		"small": "Community"
 	},
 	"details": "disco.gg/bbn",
 	"state": "Your Discord Bot Network^^",
